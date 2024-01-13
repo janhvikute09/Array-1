@@ -1,4 +1,5 @@
-//q 1:-
+//q 1:- creat an array  of char type which will accept   char input and count how mqny  elements of that array are vowels.
+
 import java.util.*;
 public  class Array_vowels
 {
